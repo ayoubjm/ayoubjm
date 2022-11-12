@@ -13,16 +13,17 @@ I also love to keep learning every day!</p>
   <li>HTML5</li>
   <li>CSS3</li>
   <li>SASS</li>
-  <li>Bootstrap</li>
-  <li>Node</li>
   <li>React</li>
   <li>Laravel</li>
+  <li>MongoDB</li>
+  <li>Bootstrap</li>
+  <li>Node</li>
   <li>Git</li>
 </ul>
 
 <h3>💞️ I’m looking to collaborate on new projects</h3>
 <h2>📫 You can reach me by</h2>
 <ul>
-  <li>E-mail : <a href="mailto:ayoubjemmal1@gmail.com">ayoubjemmal1@gmail.com</a></li>
+  <li>E-mail : <a href="mailto:ayoubjemmal.business@gmail.com">ayoubjemmal.business@gmail.com</a></li>
   <li>LinkedIn : <a href="https://www.linkedin.com/in/ayoubjemmal" target="_blank">Ayoub JEMMAL</a></li>
  </ul>
