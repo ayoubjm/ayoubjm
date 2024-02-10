@@ -1,10 +1,10 @@
   <h1>👋 Hi, My name is Ayoub JEMMAL</h1>
 
-👀 I'm 26 years old and I am interested in Full Stack Web Development.
+👀 I'm 27 years old and I am interested in QA engineering.
 
 <h2>🧐 About Me</h2>
-<p>In addition to having the super-power of sitting in front of the computer 24 hours a day just to create anything useful, 
-I am a person with great communication, teamwork and problem-solving skills. 
+<p>In addition to having the super-power of sitting in front of the computer 24 hours a day to create anything useful, 
+I am a person with great communication, teamwork, and problem-solving skills. 
 I also love to keep learning every day!</p>
 
 <h2>⚡ Languages & Technologies</h2>
