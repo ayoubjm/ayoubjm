@@ -1,6 +1,6 @@
   <h1>👋 Hi, My name is Ayoub JEMMAL</h1>
 
-👀 I'm 27 years old and I am interested in QA engineering.
+👀 I'm 28 years old QA engineer.
 
 <h2>🧐 About Me</h2>
 <p>In addition to having the super-power of sitting in front of the computer 24 hours a day to create anything useful, 
