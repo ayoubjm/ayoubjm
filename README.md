@@ -7,9 +7,10 @@
 I am a person with great communication, teamwork, and problem-solving skills. 
 I also love to keep learning every day!</p>
 
-<h3>💞️ I’m looking to collaborate on new projects</h3>
+<h3> I’m looking to collaborate on new projects</h3>
 <h2>📫 You can reach me by</h2>
 <ul>
+  <li>Portfolio : <a href="https://www.ayoubjemmal.com" target="_blank">Ayoub JEMMAL</a></li>
   <li>E-mail : <a href="mailto:ayoubjemmal.business@gmail.com">ayoubjemmal.business@gmail.com</a></li>
-  <li>LinkedIn : <a href="https://www.linkedin.com/in/ayoubjemmal" target="_blank">Ayoub JEMMAL</a></li>
+  <li>LinkedIn : <a href="https://www.linkedin.com/in/ayoubjemmal" target="_blank">My Profile</a></li>
  </ul>
